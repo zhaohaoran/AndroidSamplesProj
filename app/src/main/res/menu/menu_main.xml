@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="net.haoranzhao.jilizhang.AddRecord">
+
+    <item android:id="@+id/action_regular_rest" android:title="@string/action_httpclient_rest"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_retrofit_rest" android:title="@string/action_retrofit_rest"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_recycler_view_sample" android:title="@string/action_recycler_view_sample"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_card_view_sample" android:title="@string/action_card_view_sample"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_activity_scrolling" android:title="@string/action_activity_scrolling"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
