@@ -1,13 +1,10 @@
 # AndroidSamplesProj
-TODO: Write a project description
-## Installation
-TODO: Describe the installation process
-## Usage
-TODO: Write usage instructions
-```
-look like code
-```
+This app is my playing with new layouts and some third party libaries.
+Till now, the app contains activities that work with recyclerview, cardview, Retrofit, Glide, Butterknife.
+And there will be  more as I try more.
 
+## Installation
+Welcome to fork, download and play with it. It'd even better if you provide me feedback.
 
 ## Contributing
 1. Fork it!
@@ -17,8 +14,6 @@ look like code
 5. Submit a pull request :D
 
 ## History
-TODO: Write history
+Till now, the app contains activities that work with recyclerview, cardview, Retrofit, Glide, Butterknife.
 ## Credits
-TODO: Write credits
-## License
-TODO: Write license
+Thanks for the developers that created those cool libraries.
