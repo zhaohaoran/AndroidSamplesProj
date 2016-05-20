@@ -15,6 +15,6 @@ Welcome to fork, download and play with it. It'd even better if you provide me f
 5. Submit a pull request :D
 
 ## History
-Till now, the app contains activities that work with recyclerview, cardview, Retrofit, Glide, Butterknife.
+Till now, the app contains activities that work with recyclerview, cardview, Retrofit, Glide, Butterknife, Retrofit with RxJava.
 ## Credits
 Thanks for the developers that created those cool libraries.
