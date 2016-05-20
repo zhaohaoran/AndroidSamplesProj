@@ -17,4 +17,5 @@ Welcome to fork, download and play with it. It'd even better if you provide me f
 ## History
 Till now, the app contains activities that work with recyclerview, cardview, Retrofit, Glide, Butterknife, Retrofit with RxJava.
 ## Credits
-Thanks for the developers that created those cool libraries.
+Thanks to the developers that created those cool libraries.
+Also, thanks to gank.io for using their API.
