@@ -49,6 +49,10 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent5 = new Intent(MainActivity.this,ScrollingActivity.class);
                 startActivity(intent5);
                 return true;
+            case R.id.action_activity_retrofitwithrxjava:
+                Intent intent6 = new Intent(MainActivity.this,RetrofitWithRxJava.class);
+                startActivity(intent6);
+                return true;
             default:
                 return super.onOptionsItemSelected(item);
         }

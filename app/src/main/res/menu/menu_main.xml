@@ -11,5 +11,7 @@
     <item android:id="@+id/action_card_view_sample" android:title="@string/action_card_view_sample"
         android:orderInCategory="100" app:showAsAction="never" />
     <item android:id="@+id/action_activity_scrolling" android:title="@string/action_activity_scrolling"
+    android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_activity_retrofitwithrxjava" android:title="@string/action_activity_retrofitwithrxjava"
         android:orderInCategory="100" app:showAsAction="never" />
 </menu>
