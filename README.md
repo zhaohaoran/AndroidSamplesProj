@@ -2,6 +2,7 @@
 This app is my playing with new layouts and some third party libaries.
 Till now, the app contains activities that work with recyclerview, cardview, Retrofit, Glide, Butterknife.
 And there will be  more as I try more.
+Just add a new activity works with Retrofit and RxJava together.
 
 ## Installation
 Welcome to fork, download and play with it. It'd even better if you provide me feedback.
